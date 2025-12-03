@@ -152,5 +152,5 @@ File	Description :
 # 👨‍💻 Author
 
 ~ Ayush
-🔗 GitHub: https://github.com/ayush13-0
-🔗 LinkedIn: https://linkedin.com/in/ayush130
+- 🔗 GitHub: https://github.com/ayush13-0
+- 🔗 LinkedIn: https://linkedin.com/in/ayush130
