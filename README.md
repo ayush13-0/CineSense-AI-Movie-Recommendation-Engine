@@ -151,6 +151,6 @@ File	Description :
 
 # 👨‍💻 Author
 
-~ Ayush
+# Ayush
 - 🔗 GitHub: https://github.com/ayush13-0
 - 🔗 LinkedIn: https://linkedin.com/in/ayush130
