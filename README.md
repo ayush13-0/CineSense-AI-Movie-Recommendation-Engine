@@ -155,7 +155,7 @@ File	Description :
 - Deployment using Flask / FastAPI
 - Web UI using Streamlit or React
 
-#🏁 Conclusion
+# 🏁 Conclusion
 
 - CineMatch AI successfully demonstrates how Natural Language Processing and machine learning can be applied to build a practical, content-based movie recommendation system.
 - By converting movie metadata into feature vectors and measuring their similarity, the system provides accurate and meaningful movie suggestions.
