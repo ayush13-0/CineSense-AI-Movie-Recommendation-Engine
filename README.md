@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/ML-Scikit--Learn-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Cosine%20Similarity-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Data-Pandas-orange?style=for-the-badge" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python" />
 </p>
 <!-- INTERNSHIP / PROGRAM BADGES -->
